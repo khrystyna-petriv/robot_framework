@@ -1,4 +1,0 @@
-***
-Problem - Opening Robot Framework log failed:
-Solution - Set security.csp.enable = false
-***
